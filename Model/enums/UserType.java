@@ -1,5 +1,5 @@
 package enums;
 
-public enum TipeUser {
+public enum UserType {
     ADMIN, USER;
 }
