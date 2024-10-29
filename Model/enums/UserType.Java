@@ -1,4 +1,4 @@
-package model.enums;
+package Model;
 
 public enum UserType {
     USER, ADMIN;

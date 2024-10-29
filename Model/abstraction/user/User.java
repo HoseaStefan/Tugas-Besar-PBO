@@ -1,10 +1,9 @@
 package abstraction.user;
 
-import enums.UserType;
 import abstraction.loyalty.Loyalty;
 import abstraction.tabungan.*;
 
-public class User {
+public abstract class User {
     private int userID;
     private String fullName;
     private String name;
