@@ -2,6 +2,7 @@ package abstraction.user;
 
 import abstraction.loyalty.Loyalty;
 import abstraction.tabungan.*;
+import enums.*;
 
 public abstract class User {
     private int userID;
