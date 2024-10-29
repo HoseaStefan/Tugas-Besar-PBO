@@ -17,7 +17,7 @@ public abstract class User {
     private BluSaving[] userSavings;
     private BluGether[] userGether;
     private BluDeposit userDeposit;
-    private UserType userType;
+    private TipeUser userType;
 
     public User() {
     }
