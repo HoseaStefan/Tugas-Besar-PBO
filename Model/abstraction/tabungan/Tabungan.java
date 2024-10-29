@@ -1,5 +1,6 @@
 package abstraction.tabungan;
 
-public class Tabungan {
+abstract class Tabungan {
+    private String 
 
 }
